@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sat Dec 16 09:46:40 SGT 2017 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
 ----------------------------------------------------------------
 Sat Dec 16 09:46:41 SGT 2017:
@@ -61,3 +62,19 @@ ERROR 08004: Connection authentication failure occurred.  Reason: Invalid authen
 ============= end nested exception, level (1) ===========
 Cleanup action completed
 Sat Dec 16 09:46:42 SGT 2017 Thread[DRDAConnThread_2,5,main] (DATABASE = ModuleCPrototypedatabase), (DRDAID = {1}), Connection authentication failure occurred.  Reason: Invalid authentication..
+=======
+Fri Dec 15 23:34:30 SGT 2017 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Dec 15 23:34:30 SGT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0160-5ad0-05af-ffff8d93d72c 
+on database directory C:\Users\lenovo\Desktop\College Items\Degree Software Systems Development 2017\Semester 1\AGILE SOFTWARE DEVELOPMENT\Sprint 3-15.12.2017\FastestDeliverymanAgile\Database\ModuleCPrototypedatabase with class loader sun.misc.Launcher$AppClassLoader@5e2de80c 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_66/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=C:\Program Files\Java\jdk1.8.0_66\db
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\lenovo\Desktop\College Items\Degree Software Systems Development 2017\Semester 1\AGILE SOFTWARE DEVELOPMENT\Sprint 3-15.12.2017\FastestDeliverymanAgile\Database
+Database Class Loader started - derby.database.classpath=''
+>>>>>>> origin/master
