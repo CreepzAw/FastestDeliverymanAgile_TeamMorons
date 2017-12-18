@@ -10,14 +10,14 @@ import java.util.List;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-public class AddMenu  {
+public class MaintainMenu  {
    List<Menu> menuList = new ArrayList<Menu>();
    Scanner scanner = new Scanner(System.in);
     
       
       
     public static void main (String args[]){
-       AddMenu add= new AddMenu();
+       MaintainMenu add= new MaintainMenu();
         add.mainMenu();
     }
       

@@ -14,7 +14,7 @@ public class TeamMoronOverviewMenu {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        AddMenu addmenu = new AddMenu();
+        MaintainMenu addmenu = new MaintainMenu();
         AddStaff addstaff = new AddStaff();
         ModuleD moduleD = new ModuleD();
         int more = 0;
